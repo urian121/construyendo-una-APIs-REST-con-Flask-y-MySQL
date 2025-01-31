@@ -2,8 +2,9 @@
 
 Este proyecto es una API RESTful desarrollada con **Flask** y **MySQL**, diseñada para gestionar tareas (To-Do List). La API proporciona endpoints para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una tabla `todos`.
 
-## Tabla de Contenidos
+![Resultado final](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/Resultado-api-flask-mysql.png)
 
+## Tabla de Contenidos
 1. [Descripción](#descripción)
 2. [Requisitos](#requisitos)
 3. [Instalación](#instalación)
